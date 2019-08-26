@@ -1,4 +1,4 @@
-Game,Date,Quarter,Time,Foul,Committing Player,Disadvantaged Player,Decision,Capela
+Game,Date,Quarter,Time,Foul,Committing Player,Disadvantaged Player,Decision, Unique Players
 1,4/28/2019,Q4,01:59.9,Personal,Green,Capela,CNC,Harden
 1,4/28/2019,Q4,01:55.2,Shooting,Iguodala,Harden,CC,Durant
 1,4/28/2019,Q4,01:42.3,Personal,Harden,Durant,CNC,Curry
@@ -14,7 +14,7 @@ Game,Date,Quarter,Time,Foul,Committing Player,Disadvantaged Player,Decision,Cape
 1,4/28/2019,Q4,00:40.4,Shooting,Thompson,Harden,CC,Livingston
 1,4/28/2019,Q4,00:37.2,Offensive,Green,Tucker,CNC,Gerald
 1,4/28/2019,Q4,00:10.1,Offensive,Harden,Green,CNC,Looney
-1,4/28/2019,Q4,00:10.1,Shooting,Green,Harden,CNC,
+1,4/28/2019,Q4,00:10.1,Shooting,Green,Harden,CNC,Capela
 1,4/28/2019,Q4,00:06.7,Personal,Thompson,Paul,CNC,
 1,4/28/2019,Q4,00:05.2,Personal,Curry,Gordon,INC,
 1,4/28/2019,Q4,00:04.4,Out of Bounds,Paul,Curry,CC,
